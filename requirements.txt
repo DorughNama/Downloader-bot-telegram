@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+yt-dlp
+python-multipart
+python-dotenv
+aiofiles
+aiogram
+aiohttp
+python-dotenv
